@@ -27,11 +27,10 @@ django-bananas is on PyPI, so just run:
 
 Currently tested only for
 
--   Django 1.8-2.0 under Python 3.4
--   Django 1.8-2.2 under Python 3.5
--   Django 1.11-2.2 under Python 3.6-3.7
+-   Django 1.11-2.2 under Python 3.5-3.7
+-   Django 3.0 under Python 3.6-3.8
 
-pull requests welcome!
+Pull requests welcome!
 
 --------------------------------------------------------------------------------
  Examples
